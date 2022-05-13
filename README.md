@@ -10,7 +10,7 @@ ProjectRun is a 3D Side Scroller Parkour game with an emphasis on satisfying mov
 
 The goal is to be the quickest to get from the start to the end, making challenging moves look effortless and making snap decisions with only fractions of a second to think.
 
-How fast can *you* make it to through?
+How fast can *you* make it through?
 
 
 ## Project Overview
