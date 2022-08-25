@@ -12,3 +12,14 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Builds/Windows/ProjectRun/Content/Paks/ProjectRun-Windows.utoc
+Builds/Windows/ProjectRun/Content/Paks/ProjectRun-Windows.ucas
+Builds/Windows/ProjectRun/Content/Paks/ProjectRun-Windows.pak
+Builds/Windows/ProjectRun/Content/Paks/global.utoc
+Builds/Windows/ProjectRun/Content/Paks/global.ucas
+Builds/Windows/ProjectRun.exe
+Builds/Windows/Manifest_UFSFiles_Win64.txt
+Builds/Windows/Manifest_NonUFSFiles_Win64.txt
+Builds/Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
