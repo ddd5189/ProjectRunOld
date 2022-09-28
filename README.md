@@ -6,6 +6,8 @@ Developed with Unreal Engine 5
 
 ## Description
 
+**This is an old version of the game. There is a new Repo with the current version here: https://github.com/ddd5189/ProjectRun**
+
 ProjectRun is a 3D Side Scroller Parkour game with an emphasis on satisfying movement. 
 
 The goal is to be the quickest to get from the start to the end, making challenging moves look effortless and making snap decisions with only fractions of a second to think.
